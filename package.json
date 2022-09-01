@@ -1,0 +1,24 @@
+{
+  "name": "serveur",
+  "version": "1.0.0",
+  "description": "Contenue de 3E4 - A22",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LELUDO7/Serveur.git"
+  },
+  "author": "Ludovic Fournier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LELUDO7/Serveur/issues"
+  },
+  "homepage": "https://github.com/LELUDO7/Serveur#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1"
+  }
+}
